@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "provision to azure cloud",
   "main": "provisionComposer.js",
-  "license": "MIT",
+  "license": "MIT" ,
   "scripts": {
     "start": "node provisionComposer.js"
   },
